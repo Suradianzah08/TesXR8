@@ -1,0 +1,28 @@
+body{ background-color: burlywood;}
+div.container{
+    margin: 0 auto;
+    width: 90%;
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: bisque;
+}
+nav{
+    width: 20%;
+    height: 800px;
+    background-color: rgb(86, 136, 28);
+    float: left;
+}
+div.conten{
+    width: 20%;
+    height: 800px;
+    background-color: rgb(139, 5, 79);
+    float: right;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: aliceblue;
+    float: left;
+}
